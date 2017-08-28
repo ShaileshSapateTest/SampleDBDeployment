@@ -67,6 +67,5 @@
     <Build Include="dbo\OrderItem.sql" />
     <Build Include="dbo\Product.sql" />
     <Build Include="dbo\Supplier.sql" />
-    <Build Include="dbo\create_cross_database_query.sql" />
   </ItemGroup>
 </Project>
